@@ -9,7 +9,7 @@ package com.cursos.cursojava;
  *
  * @author brandon.delacruz
  */
-public class MetodosCadenasDeTexto {
+public class M1_13_MetodosCadenasDeTexto {
     public static void main(String[] args) {
         //Mostar la subcadena en un determinado rango
         System.out.println("*****DETERMINAR EL CONTENIDO DE UN TEXTO EN UN RANGO*****");
